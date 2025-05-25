@@ -48,3 +48,6 @@ El sitio fue desarrollado con JavaScript puro y contiene todas las funciones ese
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/MafeTech24/proyectoFinalMorenoMariaFernanda.git
+
+Para acceder al sitio a través de GitHub Pages, ingresa al siguiente enlace: [https://mafetech24.github.io/proyectoFinalMorenoMariaFernanda/](https://mafetech24.github.io/proyectoFinalMorenoMariaFernanda/)
+
