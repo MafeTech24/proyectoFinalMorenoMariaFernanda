@@ -1,0 +1,122 @@
+[
+    {
+        "img":"../assets/perfumeria/0.01.webp",
+        "marca": "AGHATA RUIZ DE LA PRADA",
+        "nombre":"Gotas de Color DOT-TO-DOT EDT",
+        "presentacion": "100",
+        "codigo":"1",
+        "precio":"30270"
+    },
+    {
+        "img":"../assets/perfumeria/0.02.webp",
+        "marca": "AGHATA RUIZ DE LA PRADA",
+        "nombre":"Gotas de Color EDT",
+        "presentacion": "100",
+        "codigo":"2",
+        "precio":"30270"
+    },
+    {
+        "img":"../assets/perfumeria/0.03.webp",
+        "marca": "AGHATA RUIZ DE LA PRADA",
+        "nombre":"Flor EDT",
+        "presentacion": "100",
+        "codigo":"3",
+        "precio":"28110"
+    },
+    {
+        "img":"../assets/perfumeria/armani200.webp",
+        "marca": "ARMANI",
+        "nombre":"Si Passione EDP Intense Refillable",
+        "presentacion": "100",
+        "codigo":"200",
+        "precio":"299000"
+    },
+    {
+        "img":"../assets/perfumeria/armani201.webp",
+        "marca": "ARMANI",
+        "nombre":"My Way EDP Refillable",
+        "presentacion": "50",
+        "codigo":"201",
+        "precio":"250000"
+    },
+    {
+        "img":"../assets/perfumeria/armani202.webp",
+        "marca": "ARMANI",
+        "nombre":"My Way Intense EDP",
+        "presentacion": "90",
+        "codigo":"202",
+        "precio":"305000"
+    },
+    {
+        "img":"../assets/perfumeria/banderas400.webp",
+        "marca": "BANDERAS",
+        "nombre":"Blue Seduction For Woman EDT",
+        "presentacion": "80",
+        "codigo":"400",
+        "precio":"36300"
+    },
+    {
+        "img":"../assets/perfumeria/banderas401.webp",
+        "marca": "BANDERAS",
+        "nombre":"Her Secret Temptation EDT",
+        "presentacion": "80",
+        "codigo":"401",
+        "precio":"36500"
+    },
+    {
+        "img":"../assets/perfumeria/banderas402.webp",
+        "marca": "BANDERAS",
+        "nombre":"The Icon Splendid EDP",
+        "presentacion": "100",
+        "codigo":"402",
+        "precio":"53500"
+    },
+    {
+        "img":"../assets/perfumeria/benetton600.webp",
+        "marca": "BENETTON",
+        "nombre":"Sisterland Pink Raspberry EDT",
+        "presentacion": "80",
+        "codigo":"600",
+        "precio":"39200"
+    },
+    {
+        "img":"../assets/perfumeria/benetton601.webp",
+        "marca": "BENETTON",
+        "nombre":"United Dreams Love Yourself EDT",
+        "presentacion": "80",
+        "codigo":"601",
+        "precio":"39500"
+    },
+    {
+        "img":"../assets/perfumeria/benetton602.webp",
+        "marca": "BENETTON",
+        "nombre":"Sisterland Golden Vanilla EDP",
+        "presentacion": "80",
+        "codigo":"602",
+        "precio":"43120"
+    },
+    {
+        "img":"../assets/perfumeria/carolinaH800.webp",
+        "marca": "CAROLINA HERRERA",
+        "nombre":"Good Girl EDP",
+        "presentacion": "80",
+        "codigo":"800",
+        "precio":"180460"
+    },
+    {
+        "img":"../assets/perfumeria/carolinaH801.webp",
+        "marca": "CAROLINA HERRERA",
+        "nombre":"212 EDT",
+        "presentacion": "60",
+        "codigo":"801",
+        "precio":"132160"
+    },
+    {
+        "img":"../assets/perfumeria/carolinaH802.webp",
+        "marca": "CAROLINA HERRERA",
+        "nombre":"212 Vip Rose EDP Ed. Limitada",
+        "presentacion": "125",
+        "codigo":"802",
+        "precio":"269430"
+    }
+]

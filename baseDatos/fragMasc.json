@@ -1,0 +1,74 @@
+[
+    {
+        "img":"../assets/perfumeria/versage1000.webp",
+        "marca": "VERSACE",
+        "nombre":"Blue Jeans EDT",
+        "presentacion": "75",
+        "codigo":"1000",
+        "precio":"63990"
+    },
+    {
+        "img":"../assets/perfumeria/calvin1200.webp",
+        "marca": "CALVIN KLEIN",
+        "nombre":"Blue Jeans EDT",
+        "presentacion": "150",
+        "codigo":"1200",
+        "precio":"106150"
+    },    
+    {
+        "img":"../assets/perfumeria/davidoff1400.webp",
+        "marca": "DAVIDOFF",
+        "nombre":"Davidoff Cool Water EDT",
+        "presentacion": "200",
+        "codigo":"1400",
+        "precio":"130680"
+    },
+    {
+        "img":"../assets/perfumeria/azzaro1600.webp",
+        "marca": "AZZARO",
+        "nombre":"Azzaro Sport EDT",
+        "presentacion": "100",
+        "codigo":"1600",
+        "precio":"94923"
+    },
+    {
+        "img":"../assets/perfumeria/versage1001.webp",
+        "marca": "VERSACE",
+        "nombre":"The Dreamer EDT",
+        "presentacion": "100",
+        "codigo":"1001",
+        "precio":"110700"
+    },
+    {
+        "img":"../assets/perfumeria/guylaroche1800.webp",
+        "marca": "GUY LAROCHE",
+        "nombre":"Drakkar Noir EDT",
+        "presentacion": "200",
+        "codigo":"1800",
+        "precio":"49140"
+    },
+    {
+        "img":"../assets/perfumeria/bvlgari2000.webp",
+        "marca": "BVLGARI",
+        "nombre":"Le Gemme Garanat EDP",
+        "presentacion": "125",
+        "codigo":"2000",
+        "precio":"658900"
+    },
+    {
+        "img":"../assets/perfumeria/loewe2200.webp",
+        "marca": "LOEWE",
+        "nombre":"LOEWE 7 ELIXIR EDP",
+        "presentacion": "125",
+        "codigo":"2200",
+        "precio":"437000"
+    },
+    {
+        "img":"../assets/perfumeria/armani2400.webp",
+        "marca": "ARMANI",
+        "nombre":"Armani Code Parfum",
+        "presentacion": "125",
+        "codigo":"2400",
+        "precio":"330000"
+    }
+]       
